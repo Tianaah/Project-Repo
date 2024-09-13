@@ -77,7 +77,7 @@ body {
   }
   
   a:visited {
-    color: black;
+    color: blue;
   }
   
   a:hover {
@@ -85,5 +85,5 @@ body {
   }
   
   a:active {
-    color: brown;
+    color: black;
   }

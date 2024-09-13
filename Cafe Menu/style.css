@@ -32,4 +32,61 @@ body {
     margin-right: auto;
     padding: 20px;
     max-width: 500px;
+<<<<<<< HEAD
+=======
+  }
+  img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: -25px;
+    width: 15%;
+  }
+  
+  hr {
+    height: 2px;
+    background-color: brown;
+    border-color: brown;
+  }
+  
+  .bottom-line {
+    margin-top: 25px;
+  }
+  
+  h1, h2 {
+    font-family: Impact, serif;
+  }
+  
+  .item p {
+    display: inline-block;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    font-size: 18px;
+  }
+  
+  .flavor, .dessert {
+    text-align: left;
+    width: 75%;
+  }
+  
+  .price {
+    text-align: right;
+    width: 25%;
+  }
+  
+  a {
+    color: black;
+  }
+  
+  a:visited {
+    color: blue;
+  }
+  
+  a:hover {
+    color: brown;
+  }
+  
+  a:active {
+    color: black;
+>>>>>>> 5214f5c09902a87cf33d6f19e5f78111a42b4fdb
   }

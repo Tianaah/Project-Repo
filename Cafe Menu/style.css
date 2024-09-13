@@ -32,8 +32,6 @@ body {
     margin-right: auto;
     padding: 20px;
     max-width: 500px;
-<<<<<<< HEAD
-=======
   }
   img {
     display: block;
@@ -88,5 +86,4 @@ body {
   
   a:active {
     color: black;
->>>>>>> 5214f5c09902a87cf33d6f19e5f78111a42b4fdb
   }
